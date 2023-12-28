@@ -173,4 +173,5 @@ public class CalcTest {
   void t28() {
     assertThat(Calc.run("20 * (2 + 3)")).isEqualTo(100);
   }
+
 }
