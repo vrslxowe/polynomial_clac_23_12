@@ -1,4 +1,4 @@
-package com.ll; // 패키지
+package com.ll;
 
 public class Calc {
 
